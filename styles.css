@@ -161,6 +161,14 @@ a.active {
     object-fit: contain;
 }
 
+.skillset{
+
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px;
+}
+
 @keyframes wave {
 
     0%,
