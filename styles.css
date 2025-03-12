@@ -249,6 +249,9 @@ a.active {
     font-size: 1.1rem;
     color: #ffffff;
     margin-bottom: 10px;
+    display: block;
+    text-align: left;
+    
 }
 
 .contact-form-container input,
@@ -258,7 +261,7 @@ a.active {
     border: none;
     border-radius: 5px;
     padding: 10px;
-    width: 90%;
+    width: 100%;
     margin-bottom: 18px;
     margin-top: 9px;
     margin-left: auto;
